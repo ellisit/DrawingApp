@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ejouanjan/Desktop/Training/DrawingApp/app/src/main/res/drawable/backgroud_drawing_view_layout.xml" value="0.143" />
+        <entry key="..\:/Users/ejouanjan/Desktop/Training/DrawingApp/app/src/main/res/drawable/large.xml" value="0.144" />
+        <entry key="..\:/Users/ejouanjan/Desktop/Training/DrawingApp/app/src/main/res/drawable/medium.xml" value="0.143" />
+        <entry key="..\:/Users/ejouanjan/Desktop/Training/DrawingApp/app/src/main/res/drawable/pallet_normal.xml" value="0.171" />
+        <entry key="..\:/Users/ejouanjan/Desktop/Training/DrawingApp/app/src/main/res/drawable/pallet_selected.xml" value="0.172" />
+        <entry key="..\:/Users/ejouanjan/Desktop/Training/DrawingApp/app/src/main/res/drawable/small.xml" value="0.143" />
+        <entry key="..\:/Users/ejouanjan/Desktop/Training/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/ejouanjan/Desktop/Training/DrawingApp/app/src/main/res/layout/dialog_brush_size.xml" value="0.1328125" />
         <entry key="..\:/Users/ejouanjan/Desktop/Training/The-Complete-Android-12-Kotlin-Development-Masterclass/MyDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.17617753623188406" />
       </map>
     </option>
